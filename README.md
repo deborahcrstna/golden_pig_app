@@ -1,16 +1,7 @@
-# golden_pig_app
+# Golden Pig 
 
-A new Flutter project.
+## <p> English :us: :</p> <p> Golden Pig it's a personal finance app project made in flutter in order to develop my knowledge about technology. </p> <p> Portuguese :brazil: :</p> <p>Golden Pig é um projeto de um app de finanças pessoais feito em flutter afim de desenvolver meus conhecimentos sobre a tecnologia. </p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Screen design inspiration came from [Figma](https://www.figma.com/community/file/1080339303735258826).
